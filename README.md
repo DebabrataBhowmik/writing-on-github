@@ -2,9 +2,9 @@
 
 To write like a coding style
 
-"""
-hello world!
-this is my world
-"""
+
+>hello world!
+>this is my world
+
 
 hi
